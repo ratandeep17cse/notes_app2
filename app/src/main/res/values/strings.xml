@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To_do_list_app</string>
+    <string name="val1">Edit</string>
+    <string name="val2">Delete</string>
+</resources>
